@@ -18,3 +18,13 @@
 
  command for adding all files to repository
   >git commit -m "commit message"
+
+  ADDING TO REMOTE repository
+  >git remote add name(origin) remote_path
+
+  >git remote -v
+
+  >git push -u name master
+
+  command for listing all branches
+  > git bracnh
