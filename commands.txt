@@ -13,8 +13,8 @@
  command for listing all untracked files
   >git status
 
- command for add all untrackedfiles to staging area
-  >git add -add
+ command for add all untracked files to staging area
+  >git add -A
 
  command for adding all files to repository
   >git commit -m "commit message"
